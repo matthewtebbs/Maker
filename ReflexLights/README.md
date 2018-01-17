@@ -22,7 +22,7 @@ This sketch was tested and uploaded to a [Let's Start Coding](http://letsstartco
 
 There are a variety of ways you can compile and upload this sketch onto the board.
 
-1. If using the Let's Start Coding software (desktop or web) then you are good to go with just the sketcg code (.INO).
+1. If using the Let's Start Coding software (desktop or web) then you are good to go with just the sketch code (.INO).
 
 1. If using the [Ardunio IDE](https://www.arduino.cc/en/Main/Software), or Visual Studio Code with the Arduino [extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino), then you'll need to ensure the Arduino IDE has imported the LED strip library from Let's Start Coding. You can download it from [here](http://letsstartcoding.com/libraries). 
 
