@@ -4,8 +4,6 @@ Sketch of a LED strip light game to test your reflexes.
 
 This sketch was tested and uploaded to a [Let's Start Coding](http://letsstartcoding.com) maker board and components from their Ultimate Kit using their desktop application.
 
-Their board and firmware is compatible with the Arduino Uno and the Arduino IDE so I suspect that this sketch MAY work with other manufacturer's maker boards.
-
 ## Components
 
 - Arduino Uno compatible maker board x1
