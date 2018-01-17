@@ -24,14 +24,14 @@ Their board and firmware is compatible with the Arduino Uno and the Arduino IDE 
 
 - Start the game using the **reset** button.
 
-- Press the *stop* button to test your reflexes and try to stop thge colored light on the single green LED.
+- Press the **stop** button to test your reflexes and try to stop thge colored light on the single green LED.
 
 *Don't stop on the red and yellow LEDs!*
 
 - If successful then the lights will blink green and the next challenge will be faster moving lights.
 - If unsucessful then the lights will flash once either red or yellow depending on how far off from the mark you were.
 
-- To restart the game to the easiest speed press the reset button.
+- Press the **restart** button at anytime to reset the game back to the easiest speed.
 
 ## Code License
 
