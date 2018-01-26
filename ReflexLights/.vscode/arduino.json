@@ -1,0 +1,5 @@
+{
+  "port": "/dev/cu.usbserial-DN02K1HC",
+  "board": "arduino:avr:uno",
+  "sketch": "sketch_reflexlights.ino"
+}
